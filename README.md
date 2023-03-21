@@ -4,5 +4,4 @@
 - 📍Based in Montreal, available anywhere.
 - 🤔 I'm excited about multiplayer interfaces, generative user interfaces and design systems!
 
-**Take a look at my two current personal projects bivi.io & hellosupersaas.com 
-**
+**Take a look at my two current personal projects bivi.io & hellosupersaas.com **
