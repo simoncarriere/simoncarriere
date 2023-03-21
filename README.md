@@ -19,3 +19,4 @@ Lets connect on Twitter [@simonsjournal](https://twitter.com/simonsjournal) or v
 " target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 -->
+![bivihero](https://user-images.githubusercontent.com/11487528/226699205-2180854e-fd58-4d16-ab75-45a64c88293b.png)
