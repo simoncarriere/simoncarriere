@@ -7,7 +7,7 @@
 📍Based in Montreal, available anywhere.
 
 I'm currently building : 
-1. Bivi.io helping small async teams with their scehduling and tasks
-2. Hellosupersaas.com helping founders race to their MVPs.
+1. [Bivi.io](https://bivi.io) helping small async teams with their scehduling and tasks
+2. [Hellosupersaas.com](https://hellosupersaas.com) helping founders race to their MVPs.
 
-Lets connect on Twitter [@simonsjournal](https://twitter.com/simonsjournal) or email me directly at [hello@simonsjournal.com](mailto:hello@simonsjournal.com)
+Lets connect on Twitter [@simonsjournal](https://twitter.com/simonsjournal) or email me at [hello@simonsjournal.com](mailto:hello@simonsjournal.com)
