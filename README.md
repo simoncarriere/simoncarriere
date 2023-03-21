@@ -1,3 +1,4 @@
+![bivihero02](https://user-images.githubusercontent.com/11487528/226699473-287a7ffd-e504-4edc-981e-2430a247ad83.png)
 ## Hi, I'm Simon, a purpose-driven full-stack developer and product strategist based in Montreal. 
 
 After several years of freelancing, I'm eager to join an ambitious and aligned team committed to building innovative solutions to challenging problems.
