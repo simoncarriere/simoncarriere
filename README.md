@@ -1,18 +1,17 @@
-## Hi, I'm Simon. A purpose driven, full stack developer & product strategist
+## Hi, I'm Simon, a purpose-driven full-stack developer and product strategist based in Montreal. 
 
-- 👀 After years of freelancing, I’m looking to join an ambitious and aligned team on a mission to build innovative solutions to bold problems.
-- 📍Based in Montreal, available anywhere.
-- 🔨 My prefered stack includes Next.js (13) Firebase (9) Tailwind but love learning and playing with new technologies
-- 🤔 I'm excited about design systems and collaborative & generative user interfaces!
+After several years of freelancing, I'm eager to join an ambitious and aligned team committed to building innovative solutions to challenging problems.
 
-### I'm currently building : 
+My preferred stack includes Next.js (v13), Firebase (v9), and Tailwind, although I enjoy learning and experimenting with new technologies. I'm passionate about design systems and collaborative and generative user interfaces.
 
-1. [Bivi.io](https://bivi.io) helping small async teams supercharge their productivity in real time.
-2. [Hellosupersaas.com](https://hellosupersaas.com) helping founders race to their MVPs.
+### Currently, I'm working on two projects: 
 
-Lets connect on Twitter [@simonsjournal](https://twitter.com/simonsjournal) or email me at [hello@simonsjournal.com](mailto:hello@simonsjournal.com)
+1. [Bivi.io](https://bivi.io) a real-time productivity platform helping small asynchronous teams 
+2. [Hellosupersaas.com](https://hellosupersaas.com) a collection of boilerplates to help founders accelerate their MVPs.
 
-### Take a look : 
+Lets connect on Twitter [@simonsjournal](https://twitter.com/simonsjournal) or via email at [hello@simonsjournal.com](mailto:hello@simonsjournal.com)
+
+### Take a look at this video that showcases some of my work: 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ
 " target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
