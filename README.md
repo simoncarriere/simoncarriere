@@ -4,7 +4,7 @@
 - 📍Based in Montreal, available anywhere.
 - 🤔 I'm excited about multiplayer interfaces, generative user interfaces and design systems!
 
-I'm currently building : 
+### I'm currently building : 
 1. [Bivi.io](https://bivi.io) helping small async teams with their scehduling and tasks
 2. [Hellosupersaas.com](https://hellosupersaas.com) helping founders race to their MVPs.
 
