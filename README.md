@@ -6,7 +6,7 @@ My preferred stack includes Next.js (v13), Firebase (v9), and Tailwind, although
 
 ### Currently, I'm working on two projects: 
 
-1. [Bivi.io](https://bivi.io) a real-time productivity platform helping small asynchronous teams 
+1. [Bivi.io](https://bivi.io) a real-time productivity platform serving small asynchronous teams 
 2. [Hellosupersaas.com](https://hellosupersaas.com) a collection of boilerplates to help founders accelerate their MVPs.
 
 Lets connect on Twitter [@simonsjournal](https://twitter.com/simonsjournal) or via email at [hello@simonsjournal.com](mailto:hello@simonsjournal.com)
