@@ -2,6 +2,7 @@
 
 - 👀 After years of freelancing, I’m looking to join an ambitious and aligned team on a mission to build innovative solutions to bold problems.
 - 📍Based in Montreal, available anywhere.
+- 🔨 My prefered stack includes Next.js (13) Firebase (9) Tailwind but love learning and playing with new technologies
 - 🤔 I'm excited about design systems and collaborative & generative user interfaces!
 
 ### I'm currently building : 
