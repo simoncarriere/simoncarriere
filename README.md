@@ -2,7 +2,7 @@
 
 ## Hi, I'm Simon, a purpose-driven full-stack developer and product strategist based in Montreal. 
 
-After several years of freelancing, I'm eager to join an ambitious and aligned team committed to building innovative solutions to challenging problems.
+After a decade of freelancing, I'm eager to join an ambitious and aligned team committed to building innovative solutions to challenging problems.
 
 My preferred stack includes Next.js (v13), Firebase (v9), and Tailwind, although I enjoy learning and experimenting with new technologies. I'm passionate about design systems and collaborative user interfaces.
 
